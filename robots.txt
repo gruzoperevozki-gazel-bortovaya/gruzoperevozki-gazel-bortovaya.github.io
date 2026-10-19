@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gruzoperevozki-gazel-bortovaya.vercel.app/sitemap.xml
+Sitemap: https://gruzoperevozki-gazel-bortovaya.github.io/sitemap.xml
